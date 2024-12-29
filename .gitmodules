@@ -1,0 +1,9 @@
+[submodule "games/rockPaperScissor"]
+	path = games/rockPaperScissor
+	url = https://github.com/fadilmohd007/rockPaperScissor.git
+[submodule "games/hangManSocket"]
+	path = games/hangManSocket
+	url = https://github.com/fadilmohd007/hangManSocket.git
+[submodule "games/hangMan"]
+	path = games/hangMan
+	url = https://github.com/fadilmohd007/hangMan.git
